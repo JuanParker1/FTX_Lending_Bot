@@ -12,7 +12,7 @@ API_KEY = "RoNMJDIoW8jj0xpOfi8C0EDpXonxlriUCdG5ypdg"
 API_SECRET = "nYNNSEY0S3sCJ9vuSK_vNfxT7bhBqYxLPyIw1gEx"
 Sub_account_name = ''
 You_want_to_lend = ["RAY"]
-You_want_to_reserve_howmuch = [500]
+You_want_to_reserve_howmuch = []
 
 
 balances = "https://ftx.com/api/wallet/balances"   # 取得錢包
